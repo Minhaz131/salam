@@ -1,0 +1,57 @@
+h1{
+	text-align: center;
+	font-family: arial;
+}
+mark{
+	background-color: #fff;
+	color: #0c7c31c4;
+}
+p{
+	font-size: 20px;
+	text-align: justify;
+}
+h2{
+	font-size: 2em;
+}
+.box2{
+	width: 100%;
+	height: 300px;
+
+}
+
+img{
+	width: 28%;
+	height: 10em;
+	float: left;
+	margin: 11px;
+}
+h3{
+	font-size: 25px;
+	margin-top: 3em;
+}
+.box3{
+	width: 100%;
+	height: 300px;
+}
+.box3 img{
+	width: 100%;
+	height: 100%;
+}
+.op{
+	width: 100%;
+	height: 200px;
+	margin-top: 17em;
+}
+.op h4{
+	width: 100%;
+	height: 100%;
+	margin-top: 6em;
+	font-size: 40px;
+}
+.op h2{
+	width: 100%;
+	height: 100%;
+	margin-top: -2em;
+	font-size: 100px;
+	text-align: center;
+}
